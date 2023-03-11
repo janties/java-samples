@@ -9,7 +9,7 @@ public class mainClass {
 
 		System.out.println(daire.area());//			area of circle
 		System.out.println(silindir.area());//		area of circle
-		System.out.println(silindir.Volume());//	volume of cylinder
+		System.out.println(silindir.volume());//	volume of cylinder
 	}
 
 }
