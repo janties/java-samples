@@ -17,7 +17,7 @@ public class Cylinder extends Circle
 		this.height = height;
 	}
 	//====================================>Methods
-	public double Volume()
+	public double volume()
 	{
 		return area() * height; 
 		// area() == PI * (radius*radius) but pi and radius can't accessible private
